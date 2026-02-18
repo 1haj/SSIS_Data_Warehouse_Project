@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F726A2C-E89D-36AA-6325-D4120568DD8C}|Integration Services Project34\\clinic_WH.dtproj|C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_relation_type.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{5F726A2C-E89D-36AA-6325-D4120568DD8C}|Integration Services Project34\\clinic_WH.dtproj|solutionrelative:Integration Services Project34\\dim_relation_type.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F726A2C-E89D-36AA-6325-D4120568DD8C}|Integration Services Project34\\clinic_WH.dtproj|C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\fact_table_final.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{5F726A2C-E89D-36AA-6325-D4120568DD8C}|Integration Services Project34\\clinic_WH.dtproj|solutionrelative:Integration Services Project34\\fact_table_final.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F726A2C-E89D-36AA-6325-D4120568DD8C}|Integration Services Project34\\clinic_WH.dtproj|C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_patients.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{5F726A2C-E89D-36AA-6325-D4120568DD8C}|Integration Services Project34\\clinic_WH.dtproj|solutionrelative:Integration Services Project34\\dim_patients.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F726A2C-E89D-36AA-6325-D4120568DD8C}|Integration Services Project34\\clinic_WH.dtproj|C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_doctor.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{5F726A2C-E89D-36AA-6325-D4120568DD8C}|Integration Services Project34\\clinic_WH.dtproj|solutionrelative:Integration Services Project34\\dim_doctor.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F726A2C-E89D-36AA-6325-D4120568DD8C}|Integration Services Project34\\clinic_WH.dtproj|C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_gendertype.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{5F726A2C-E89D-36AA-6325-D4120568DD8C}|Integration Services Project34\\clinic_WH.dtproj|solutionrelative:Integration Services Project34\\dim_gendertype.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F726A2C-E89D-36AA-6325-D4120568DD8C}|Integration Services Project34\\clinic_WH.dtproj|C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_insu_type.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{5F726A2C-E89D-36AA-6325-D4120568DD8C}|Integration Services Project34\\clinic_WH.dtproj|solutionrelative:Integration Services Project34\\dim_insu_type.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F726A2C-E89D-36AA-6325-D4120568DD8C}|Integration Services Project34\\clinic_WH.dtproj|C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_user_usergroup.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{5F726A2C-E89D-36AA-6325-D4120568DD8C}|Integration Services Project34\\clinic_WH.dtproj|solutionrelative:Integration Services Project34\\dim_user_usergroup.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dim_relation_type.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_relation_type.dtsx",
+              "RelativeDocumentMoniker": "Integration Services Project34\\dim_relation_type.dtsx",
+              "ToolTip": "C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_relation_type.dtsx [Design]*",
+              "RelativeToolTip": "Integration Services Project34\\dim_relation_type.dtsx [Design]*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-11-17T13:42:14.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fact_table_final.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\fact_table_final.dtsx",
+              "RelativeDocumentMoniker": "Integration Services Project34\\fact_table_final.dtsx",
+              "ToolTip": "C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\fact_table_final.dtsx [Design]",
+              "RelativeToolTip": "Integration Services Project34\\fact_table_final.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-11-17T13:17:48.831Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dim_patients.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_patients.dtsx",
+              "RelativeDocumentMoniker": "Integration Services Project34\\dim_patients.dtsx",
+              "ToolTip": "C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_patients.dtsx [Design]",
+              "RelativeToolTip": "Integration Services Project34\\dim_patients.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-11-17T13:14:31.76Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dim_doctor.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_doctor.dtsx",
+              "RelativeDocumentMoniker": "Integration Services Project34\\dim_doctor.dtsx",
+              "ToolTip": "C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_doctor.dtsx [Design]",
+              "RelativeToolTip": "Integration Services Project34\\dim_doctor.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-11-17T10:10:56.504Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dim_gendertype.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_gendertype.dtsx",
+              "RelativeDocumentMoniker": "Integration Services Project34\\dim_gendertype.dtsx",
+              "ToolTip": "C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_gendertype.dtsx [Design]",
+              "RelativeToolTip": "Integration Services Project34\\dim_gendertype.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-11-17T10:09:06.062Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dim_user_usergroup.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_user_usergroup.dtsx",
+              "RelativeDocumentMoniker": "Integration Services Project34\\dim_user_usergroup.dtsx",
+              "ToolTip": "C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_user_usergroup.dtsx [Design]",
+              "RelativeToolTip": "Integration Services Project34\\dim_user_usergroup.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-11-17T10:06:35.594Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dim_insu_type.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_insu_type.dtsx",
+              "RelativeDocumentMoniker": "Integration Services Project34\\dim_insu_type.dtsx",
+              "ToolTip": "C:\\Users\\nosha\\source\\repos\\Integration Services Project34\\Integration Services Project34\\dim_insu_type.dtsx [Design]",
+              "RelativeToolTip": "Integration Services Project34\\dim_insu_type.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-11-17T09:52:49.949Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
