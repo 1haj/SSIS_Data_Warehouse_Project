@@ -16,8 +16,14 @@ The system integrates multiple clinic-related data sources into a clean, analyti
 - Create **fact tables** representing clinical activities and transactions  
 - Implement **ETL pipelines** using SSIS for automated loading  
 - Apply data transformations, lookups, validation, and error handling  
-- Enable analytical queries through a **star-schema** design  
-
+- Enable analytical queries through a **star-schema** design
+- 
+### Analytical Layer:
+- SSAS Multidimensional cube
+- Measure groups
+- Aggregations
+- Dimension hierarchies
+- MDX query support
 ## Data Warehouse Architecture
 
 ### Fact Tables
